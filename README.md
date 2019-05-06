@@ -1,5 +1,5 @@
 # UIRays
-An example of a simple UI rays shader made in Amplify shader editor.
+An example of a simple UI rays shader made in Amplify shader editor - https://youtu.be/cjBMEgS-lsk
 
 We're making a game called Pico Tanks - Multiplayer Mayhem and we often create fun stuff that we want to share with the community. http://www.pandaarcade.com/picotanks
 
